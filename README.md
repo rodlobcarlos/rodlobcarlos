@@ -4,6 +4,17 @@ My name is *Carlos Rodríguez Lobato*. I live in **(Seville/Spain)**, actually I
 
 ## My courses
 
+### *I start in Openwebinars courses!!!*
+I'm exited to start in this platform for increased my knowledge's about this sector.
+*Presentación, objetivos y bienvenida al programa Becas OpenWebinars. Cómo utilizar la plataforma de BecasOW para el aprendizaje y desarrollo de nuevas habilidades. Itinerarios para FP DUAL. Panorama actual del mercado laboral IT. Tendencias y evolución de la industria IT. Perfiles y roles más demandados en el mercado laboral IT. Conocimientos técnicos necesarios para el mercado laboral IT. Habilidades y herramientas relacionadas con la Inteligencia Artificial (IA). El potencial de la IA en el mercado laboral y cómo aprovecharlo. Tejiendo el futuro empresarial con hilos de Inteligencia Artificial: Descubriendo su atractivo
+Aprendizaje sin fin en el mundo de la Tecnología: Manteniéndote al día en IT. Importancia de la formación continua en el sector IT. Opciones de formación continua: Cursos, certificaciones y especializaciones. Desarrollo de un plan de desarrollo profesional a largo plazo. Recursos y estrategias para el aprendizaje autodidacta y el crecimiento profesional. El valor de las habilidades blandas en el ámbito laboral. Habilidades de comunicación efectiva y trabajo en equipo
+Gestión del tiempo y la productividad. Habilidades de liderazgo y gestión de proyectos. Desarrollo de habilidades de adaptabilidad y resolución de problemas
+Cómo destacar en el proceso de selección de empleo. Elaboración de un currículum y carta de presentación efectivos. Preparación para entrevistas técnicas y de comportamiento. Tips para tus primeros días en la oficina. Estrategias para construir una marca personal sólida en línea*
+[Openwebinars](https://academia.openwebinars.net/portada/introduccion-ciberseguridad/)
+
+![BecasOW](https://github.com/user-attachments/assets/c42c8d96-9e08-4f60-9fd8-dedc2814f06c)
+
+
 ### *I complete a course about cibersecurity!!!*
 I have done this course of 10 hours in **Openwebinars**, that include all this points: \
 *¿Qué es la ciberseguridad?, Importancia de la ciberseguridad, Conceptos básicos de ciberseguridad, Introducción al modelo RMIAS, Principales amenazas de seguridad, Políticas, procedimientos y guías, Marcos de gestión y Gobierno de la seguridad, Seguridad física, Gestión de activos, Gestión de identidades y, Control de Acceso, Requisitos del negocio para el Control de Acceso, Gestión del acceso de usuarios y Responsabilidad de usuarios, Control de Acceso a sistemas y aplicaciones, Protección de la información y Criptografía, Copias de seguridad, seguridad en el correo y monitorización, Seguridad en el punto final, Seguridad en red, Gestión de incidentes, Cumplimiento y ciberseguridad, RGPD, PCI DSS*
