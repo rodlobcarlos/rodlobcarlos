@@ -19,7 +19,7 @@ I have done this course of 1 hour in **Openwebinars**, that include all this poi
 <img width="1200" height="628" alt="fbads-github-markdown" src="https://github.com/user-attachments/assets/ce7ab187-d875-41c1-b4f0-8ca6832c8394" />
 
 ### *I start in Openwebinars courses!!!*
-I'm exited to start in this platform for increased my knowledge's about this sector.
+I'm exited to start in this platform for increased my knowledge's about this sector. \
 *Presentación, objetivos y bienvenida al programa Becas OpenWebinars. Cómo utilizar la plataforma de BecasOW para el aprendizaje y desarrollo de nuevas habilidades. Itinerarios para FP DUAL. Panorama actual del mercado laboral IT. Tendencias y evolución de la industria IT. Perfiles y roles más demandados en el mercado laboral IT. Conocimientos técnicos necesarios para el mercado laboral IT. Habilidades y herramientas relacionadas con la Inteligencia Artificial (IA). El potencial de la IA en el mercado laboral y cómo aprovecharlo. Tejiendo el futuro empresarial con hilos de Inteligencia Artificial: Descubriendo su atractivo
 Aprendizaje sin fin en el mundo de la Tecnología: Manteniéndote al día en IT. Importancia de la formación continua en el sector IT. Opciones de formación continua: Cursos, certificaciones y especializaciones. Desarrollo de un plan de desarrollo profesional a largo plazo. Recursos y estrategias para el aprendizaje autodidacta y el crecimiento profesional. El valor de las habilidades blandas en el ámbito laboral. Habilidades de comunicación efectiva y trabajo en equipo
 Gestión del tiempo y la productividad. Habilidades de liderazgo y gestión de proyectos. Desarrollo de habilidades de adaptabilidad y resolución de problemas
