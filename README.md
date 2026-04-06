@@ -18,6 +18,4 @@ I have done this course of 1 hour in **Openwebinars**, that include all this poi
 
 [Openwebinars](https://academia.openwebinars.net/portada/documentacion-github-markdown/)
 
-![Githug/Markdown]<img width="1200" height="628" alt="fbads-github-markdown" src="https://github.com/user-attachments/assets/ce7ab187-d875-41c1-b4f0-8ca6832c8394" />
-
-
+<img width="1200" height="628" alt="fbads-github-markdown" src="https://github.com/user-attachments/assets/ce7ab187-d875-41c1-b4f0-8ca6832c8394" />
