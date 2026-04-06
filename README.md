@@ -10,7 +10,7 @@ I have done this course of 10 hours in **Openwebinars**, that include all this p
 
 [Openwebinars](https://academia.openwebinars.net/portada/introduccion-ciberseguridad/)
 
-![Ciberseguridad](https://github.com/user-attachments/assets/c3e18cbd-5336-4b0e-997f-d5d1320c3a3f)
+![Terminología_básica_en_Ciberseguridad](https://github.com/user-attachments/assets/ef0f01b8-20c6-4c8a-9b2e-5326598bc564)
 
 ### *I complete a course about management of tecnic documentation of Github and Markdown*!!!
 *I have done this course of 1 hour in **Openwebinars**, that include all this points: \
