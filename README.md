@@ -13,11 +13,11 @@ I have done this course of 10 hours in **Openwebinars**, that include all this p
 ![Terminología_básica_en_Ciberseguridad](https://github.com/user-attachments/assets/ef0f01b8-20c6-4c8a-9b2e-5326598bc564)
 
 ### *I complete a course about management of tecnic documentation of Github and Markdown*!!!
-*I have done this course of 1 hour in **Openwebinars**, that include all this points: \
-Qué es documentación técnica y sus fundamentos. Las herramientas necesarias para producir documentación técnica. Qué lenguaje utilizar para escribir documentación y los motivos. Qué es un lenguaje de marcas y cuáles son los más comunes. Características de Markdown y por qué destaca sobre los demás. Diferentes editores de Markdown. Características de Git y GitHub y qué ventajas aportan en este caso. Conceptos básicos imprescindibles para trabajar con Git y GitHub. Diferentes métodos de publicación que ofrece GitHub. Cómo publicar en GitHub. Aplicar todo lo anterior en una completa práctica. Otros recursos de interés para seguir aprendiendo sobre el tema.*
+I have done this course of 1 hour in **Openwebinars**, that include all this points: \
+*Qué es documentación técnica y sus fundamentos. Las herramientas necesarias para producir documentación técnica. Qué lenguaje utilizar para escribir documentación y los motivos. Qué es un lenguaje de marcas y cuáles son los más comunes. Características de Markdown y por qué destaca sobre los demás. Diferentes editores de Markdown. Características de Git y GitHub y qué ventajas aportan en este caso. Conceptos básicos imprescindibles para trabajar con Git y GitHub. Diferentes métodos de publicación que ofrece GitHub. Cómo publicar en GitHub. Aplicar todo lo anterior en una completa práctica. Otros recursos de interés para seguir aprendiendo sobre el tema.*
 
 [Openwebinars](https://academia.openwebinars.net/portada/documentacion-github-markdown/)
 
-<img width="1200" height="628" alt="fbads-github-markdown" src="https://github.com/user-attachments/assets/ce7ab187-d875-41c1-b4f0-8ca6832c8394" />
+![Githug/Markdown]<img width="1200" height="628" alt="fbads-github-markdown" src="https://github.com/user-attachments/assets/ce7ab187-d875-41c1-b4f0-8ca6832c8394" />
 
 
