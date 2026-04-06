@@ -4,4 +4,5 @@ My name is *Carlos Rodríguez Lobato*. I live in **(Seville/Spain)**, actually I
 
 He completado un curso de ciberseguridad!!!
 [Openwebinars](https://academia.openwebinars.net/aprende/introduccion-ciberseguridad/)
-![Curso ciberseguridad]((https://cdn-icons-png.freepik.com/512/17810/17810683.png))
+![Curso ciberseguridad]<img width="512" height="512" alt="ciberseguridad" src="https://github.com/user-attachments/assets/23214897-0f1a-4d47-88db-88fe7b875f69" />
+
