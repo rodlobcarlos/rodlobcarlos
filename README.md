@@ -25,7 +25,7 @@ Aprendizaje sin fin en el mundo de la Tecnología: Manteniéndote al día en IT.
 Gestión del tiempo y la productividad. Habilidades de liderazgo y gestión de proyectos. Desarrollo de habilidades de adaptabilidad y resolución de problemas
 Cómo destacar en el proceso de selección de empleo. Elaboración de un currículum y carta de presentación efectivos. Preparación para entrevistas técnicas y de comportamiento. Tips para tus primeros días en la oficina. Estrategias para construir una marca personal sólida en línea*
 
-![BecasOW](https://github.com/user-attachments/assets/c42c8d96-9e08-4f60-9fd8-dedc2814f06c) \
+![BecasOW](https://github.com/user-attachments/assets/c42c8d96-9e08-4f60-9fd8-dedc2814f06c)
 
 ## Proyects
 Now, I'm doing a ***Personal portfolio*** to submit all about my carrier in this sector since I have finished my studies. This proyect is already finished, pending to revise some parts of the final view.
