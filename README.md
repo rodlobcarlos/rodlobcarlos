@@ -1,3 +1,4 @@
+[certificado_curso_de_introducción_a_la_ciberseguridad.pdf](https://github.com/user-attachments/files/27099233/certificado_curso_de_introduccion_a_la_ciberseguridad.pdf)
 # Welcome to my Github!!
 
 My name is *Carlos Rodríguez Lobato*. I live in **(Seville/Spain)**, actually I'm a junior cross-platform software developer with experience in languages like Java, Python, Angular, HTML, CSS, JavaScript, TypeScript, MongoDB, MySQL, OracleDB and XML. Here you will see the projects I was doing on my stay in my grade for 2 years, also you will see my personal projects that I'm doing as time goes by. 
@@ -6,7 +7,7 @@ My name is *Carlos Rodríguez Lobato*. I live in **(Seville/Spain)**, actually I
 
 ### *I complete a course about cibersecurity!!!*
 Look at the diferents points that I had learned.
-![PDF Preview](certificado_curso_de_introducción_a_la_ciberseguridad.pdf) \
+[certificado_curso_de_introducción_a_la_ciberseguridad.pdf](https://github.com/user-attachments/files/27099239/certificado_curso_de_introduccion_a_la_ciberseguridad.pdf) \
 [Openwebinars](https://academia.openwebinars.net/portada/introduccion-ciberseguridad/)
 
 ![Terminología_básica_en_Ciberseguridad](https://github.com/user-attachments/assets/ef0f01b8-20c6-4c8a-9b2e-5326598bc564)
