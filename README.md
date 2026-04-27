@@ -38,3 +38,6 @@ Now, I'm doing a ***Personal portfolio*** to submit all about my carrier in this
 [certificado_onboarding_de_becas_openwebinars.pdf](https://www.linkedin.com/in/carlos-rodr%C3%ADguez-lobato-211b27330/overlay/Certifications/907224330/treasury/?profileId=ACoAAFN11m0BwunKHXBUDBsOvK5bCvuHiBjoOD0) 
 
 ![BecasOW](https://github.com/user-attachments/assets/c42c8d96-9e08-4f60-9fd8-dedc2814f06c)
+
+## Contact
+[Send me an email](https://mail.google.com/mail/u/0/?hl=es#inbox?compose=CllgCJTKXCfsGrMpcrnrMHTQktBNgnDNNxlQgHJdDSmDvxcgVwDkTKshjmmLMmZkBVJNXtpCGDB)
