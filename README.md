@@ -26,6 +26,7 @@ Now, I'm doing a ***Personal portfolio*** to submit all about my carrier in this
 ### *I complete a course about Git*!!!
 [certificado_curso_de_git](https://www.linkedin.com/in/carlos-rodr%C3%ADguez-lobato-211b27330/overlay/Certifications/1232996976/treasury/?profileId=ACoAAFN11m0BwunKHXBUDBsOvK5bCvuHiBjoOD0) 
 
+[Openwebinars](https://academia.openwebinars.net/portada/git/)
 <img width="1200" height="628" alt="image" src="https://github.com/user-attachments/assets/125d7e95-a1dc-41b3-a2b7-314f80af5383" />
 
 ### *I complete a course about AI Power Bootcamp (II Edición)*!!!
