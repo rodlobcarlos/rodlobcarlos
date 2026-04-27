@@ -2,6 +2,11 @@
 
 My name is *Carlos Rodríguez Lobato*. I live in **(Seville/Spain)**, actually I'm a junior cross-platform software developer with experience in languages like Java, Python, Angular, HTML, CSS, JavaScript, TypeScript, MongoDB, MySQL, OracleDB and XML. Here you will see the projects I was doing on my stay in my grade for 2 years, also you will see my personal projects that I'm doing as time goes by. 
 
+## Proyects
+Now, I'm doing a ***Personal portfolio*** to submit all about my carrier in this sector since I have finished my studies. This proyect is already finished, pending to revise some parts of the final view.
+
+[Click here to have a look of my projects](https://github.com/rodlobcarlos/Personal-Projects)
+
 ## My courses
 
 ### *I complete a course about cibersecurity!!!*
@@ -32,8 +37,3 @@ My name is *Carlos Rodríguez Lobato*. I live in **(Seville/Spain)**, actually I
 [certificado_onboarding_de_becas_openwebinars.pdf](https://www.linkedin.com/in/carlos-rodr%C3%ADguez-lobato-211b27330/overlay/Certifications/907224330/treasury/?profileId=ACoAAFN11m0BwunKHXBUDBsOvK5bCvuHiBjoOD0) 
 
 ![BecasOW](https://github.com/user-attachments/assets/c42c8d96-9e08-4f60-9fd8-dedc2814f06c)
-
-## Proyects
-Now, I'm doing a ***Personal portfolio*** to submit all about my carrier in this sector since I have finished my studies. This proyect is already finished, pending to revise some parts of the final view.
-
-[Click here to have a look of my projects](https://github.com/rodlobcarlos/Personal-Projects)
