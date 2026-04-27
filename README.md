@@ -12,19 +12,21 @@ Look at the diferents points that I had learned.
 ![Terminología_básica_en_Ciberseguridad](https://github.com/user-attachments/assets/ef0f01b8-20c6-4c8a-9b2e-5326598bc564)
 
 ### *I complete a course about management of tecnic documentation of Github and Markdown*!!!
-I have done this course of 1 hour in **Openwebinars**, that include all this points: \
-*Qué es documentación técnica y sus fundamentos. Las herramientas necesarias para producir documentación técnica. Qué lenguaje utilizar para escribir documentación y los motivos. Qué es un lenguaje de marcas y cuáles son los más comunes. Características de Markdown y por qué destaca sobre los demás. Diferentes editores de Markdown. Características de Git y GitHub y qué ventajas aportan en este caso. Conceptos básicos imprescindibles para trabajar con Git y GitHub. Diferentes métodos de publicación que ofrece GitHub. Cómo publicar en GitHub. Aplicar todo lo anterior en una completa práctica. Otros recursos de interés para seguir aprendiendo sobre el tema.*
+[certificado_gestión_de_documentación_técnica_con_github_y_markdown.pdf](https://www.linkedin.com/in/carlos-rodr%C3%ADguez-lobato-211b27330/overlay/Certifications/1611452950/treasury/?profileId=ACoAAFN11m0BwunKHXBUDBsOvK5bCvuHiBjoOD0) \
 [Openwebinars](https://academia.openwebinars.net/portada/documentacion-github-markdown/)
 
 <img width="1200" height="628" alt="fbads-github-markdown" src="https://github.com/user-attachments/assets/ce7ab187-d875-41c1-b4f0-8ca6832c8394" />
 
-### *I start in Openwebinars courses!!!*
-I'm exited to start in this platform for increased my knowledge's about this sector. \
-*Presentación, objetivos y bienvenida al programa Becas OpenWebinars. Cómo utilizar la plataforma de BecasOW para el aprendizaje y desarrollo de nuevas habilidades. Itinerarios para FP DUAL. Panorama actual del mercado laboral IT. Tendencias y evolución de la industria IT. Perfiles y roles más demandados en el mercado laboral IT. Conocimientos técnicos necesarios para el mercado laboral IT. Habilidades y herramientas relacionadas con la Inteligencia Artificial (IA). El potencial de la IA en el mercado laboral y cómo aprovecharlo. Tejiendo el futuro empresarial con hilos de Inteligencia Artificial: Descubriendo su atractivo
-Aprendizaje sin fin en el mundo de la Tecnología: Manteniéndote al día en IT. Importancia de la formación continua en el sector IT. Opciones de formación continua: Cursos, certificaciones y especializaciones. Desarrollo de un plan de desarrollo profesional a largo plazo. Recursos y estrategias para el aprendizaje autodidacta y el crecimiento profesional. El valor de las habilidades blandas en el ámbito laboral. Habilidades de comunicación efectiva y trabajo en equipo
-Gestión del tiempo y la productividad. Habilidades de liderazgo y gestión de proyectos. Desarrollo de habilidades de adaptabilidad y resolución de problemas
-Cómo destacar en el proceso de selección de empleo. Elaboración de un currículum y carta de presentación efectivos. Preparación para entrevistas técnicas y de comportamiento. Tips para tus primeros días en la oficina. Estrategias para construir una marca personal sólida en línea*
+### *I complete a course about Git*!!!
+[certificado_curso_de_git](https://www.linkedin.com/in/carlos-rodr%C3%ADguez-lobato-211b27330/overlay/Certifications/1232996976/treasury/?profileId=ACoAAFN11m0BwunKHXBUDBsOvK5bCvuHiBjoOD0) \
+<img width="1200" height="628" alt="image" src="https://github.com/user-attachments/assets/125d7e95-a1dc-41b3-a2b7-314f80af5383" />
 
+### *I complete a course about AI Power Bootcamp (II Edición)*!!!
+[Asociación INTEDUA (IAEducativa.org)](https://www.linkedin.com/in/carlos-rodr%C3%ADguez-lobato-211b27330/overlay/Certifications/1233187913/treasury/?profileId=ACoAAFN11m0BwunKHXBUDBsOvK5bCvuHiBjoOD0) \
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/380080df-c096-41f0-bd91-0aa1968b23ee" />
+
+### *I start in Openwebinars courses!!!*
+[certificado_onboarding_de_becas_openwebinars.pdf](https://www.linkedin.com/in/carlos-rodr%C3%ADguez-lobato-211b27330/overlay/Certifications/907224330/treasury/?profileId=ACoAAFN11m0BwunKHXBUDBsOvK5bCvuHiBjoOD0) \
 ![BecasOW](https://github.com/user-attachments/assets/c42c8d96-9e08-4f60-9fd8-dedc2814f06c)
 
 ## Proyects
