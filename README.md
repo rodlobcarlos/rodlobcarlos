@@ -38,7 +38,7 @@ Completé un curso sobre los fundamentos de la IA.\
 
 <img width="300" height="150" alt="image" src="https://github.com/user-attachments/assets/380080df-c096-41f0-bd91-0aa1968b23ee" />
 
-### *I had started in Openwebinars courses!!! 🎉*
+### *He empezado cursos en Openwebinars!!! 🎉*
 [certificado_onboarding_de_becas_openwebinars.pdf](https://www.linkedin.com/in/carlos-rodr%C3%ADguez-lobato-211b27330/overlay/Certifications/907224330/treasury/?profileId=ACoAAFN11m0BwunKHXBUDBsOvK5bCvuHiBjoOD0) 
 
 <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/040fd937-fce7-40b5-aa39-2833c3484f60" />
