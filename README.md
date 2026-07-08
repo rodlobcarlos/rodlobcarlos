@@ -9,3 +9,7 @@ Estoy trabajando en un ***portafolio personal*** para presentar todo lo relacion
 ## Contact
 [Email](https://mail.google.com/mail/u/0/?hl=es#inbox?compose=CllgCJTKXCfsGrMpcrnrMHTQktBNgnDNNxlQgHJdDSmDvxcgVwDkTKshjmmLMmZkBVJNXtpCGDB) 📩 \
 [Linkedin](https://www.linkedin.com/in/carlos-rodr%C3%ADguez-lobato-211b27330/?skipRedirect=true) 💪🏻 \
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=rodlobcarlos&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=rodlobcarlos&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=rodlobcarlos&layout=compact&langs_count=10)](https://github-stats-extended.vercel.app/api/top-langs?username=rodlobcarlos&layout=compact&langs_count=10)
