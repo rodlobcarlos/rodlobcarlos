@@ -1,6 +1,6 @@
 # Bienvenido a mi GitHub!! 👋
 
-Mi nombre es ***Carlos Rodríguez Lobato***. Vivo en **Sevilla/España**. Actualmente, soy un desarrollador junior Full-Stack con experiencia en herramientas como Java, Spring Boot Python, Angular, HTML, CSS, JavaScript, TypeScript, MongoDB, MySQL, OracleDB, Node.js y XML. Me estoy especializando en DevOps, un campo en demanda que se centra en la automatizar el trabajo entre los departamentos de desarrolladores, operaciones y seguridad. 
+Mi nombre es ***Carlos Rodríguez Lobato***. Vivo en **Sevilla/España**. Actualmente, soy un desarrollador junior Full-Stack con experiencia en herramientas como Java, Spring Boot Python, Angular, HTML, CSS, JavaScript, TypeScript, MongoDB, MySQL, OracleDB, Node.js y XML. Me estoy especializando en DevOps, un campo en demanda que se centra en la automatizar el trabajo entre los departamentos de desarrolladores, operaciones y seguridad. Tengo muchas ganas de aprender cosas nuevas y crecer cada día un poco más que el anterior. 
 
 Estas son las herramientas que he estado usando hasta día de hoy ⬇️ \
 <img width="120" height="70" alt="image" src="https://github.com/user-attachments/assets/a0767db9-1eeb-42c5-b3fe-0c4e1b06b167" />
@@ -21,7 +21,7 @@ Estas son las herramientas que he estado usando hasta día de hoy ⬇️ \
 <img width="120" height="70" alt="image" src="https://github.com/user-attachments/assets/28defc54-c933-4bf0-89b0-17fbddfe6e79" />
 
 ## Proyectos ⬇️
-Tengo creado un repositorio en el que guardo los preyectos que he ido creando a lo largo de mi carrera profesional, además he creado mi portfolio personal. Ahí recojo información sobre mí, mis skills y los proyectos, aquí te dejo el link para que le eches un ojo [Portfolio](https://crldev.up.railway.app/CRLdev).
+Tengo creado un repositorio en el que guardo los preyectos que he ido creando a lo largo de mi carrera profesional, además he creado mi portfolio personal. Ahí recojo información sobre mí, mis skills y los proyectos, aquí te dejo el link para que le eches un ojo [Portfolio](https://crldev.up.railway.app/CRLdev).\
 [Pulsa aquí para ver el repositorio](https://github.com/rodlobcarlos/Personal-Projects)
 
 ## Contact
