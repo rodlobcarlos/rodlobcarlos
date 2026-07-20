@@ -2,8 +2,7 @@
 
 Mi nombre es ***Carlos Rodríguez Lobato***. Vivo en **Sevilla/España**. Actualmente, soy un desarrollador junior Full-Stack con experiencia en herramientas como Java, Spring Boot Python, Angular, HTML, CSS, JavaScript, TypeScript, MongoDB, MySQL, OracleDB, Node.js y XML. Me estoy especializando en DevOps, un campo en demanda que se centra en la automatizar el trabajo entre los departamentos de desarrolladores, operaciones y seguridad. 
 
-Estas son las herramientas que he estado usando hasta día de hoy ⬇️ 
-
+Estas son las herramientas que he estado usando hasta día de hoy ⬇️ \
 <img width="120" height="70" alt="image" src="https://github.com/user-attachments/assets/a0767db9-1eeb-42c5-b3fe-0c4e1b06b167" />
 <img width="120" height="70" alt="image" src="https://github.com/user-attachments/assets/e882ccc4-bb1f-41b1-8832-59e3cc274af4" />
 <img width="120" height="70" alt="image" src="https://github.com/user-attachments/assets/1877b534-b07f-4f68-a86b-167b2bd2b223" />
