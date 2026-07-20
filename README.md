@@ -4,7 +4,7 @@ Mi nombre es ***Carlos Rodríguez Lobato***. Vivo en **Sevilla/España**. Actual
 
 Estas son las herramientas que he estado usando hasta día de hoy ⬇️ 
 
-<img width="160" height="110" alt="image" src="https://github.com/user-attachments/assets/a0767db9-1eeb-42c5-b3fe-0c4e1b06b167" />
+<img width="140" height="90" alt="image" src="https://github.com/user-attachments/assets/a0767db9-1eeb-42c5-b3fe-0c4e1b06b167" />
 <img width="160" height="110" alt="image" src="https://github.com/user-attachments/assets/e882ccc4-bb1f-41b1-8832-59e3cc274af4" />
 <img width="160" height="110" alt="image" src="https://github.com/user-attachments/assets/1877b534-b07f-4f68-a86b-167b2bd2b223" />
 <img width="160" height="110" alt="image" src="https://github.com/user-attachments/assets/99f6b664-784e-4fff-85fe-1508c0a33cda" />
@@ -30,5 +30,4 @@ Estoy trabajando en un ***portafolio personal*** para presentar todo lo relacion
 [Linkedin](https://www.linkedin.com/in/carlos-rodr%C3%ADguez-lobato-211b27330/?skipRedirect=true) 💪🏻 
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=rodlobcarlos&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=rodlobcarlos&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true)
-
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=rodlobcarlos&layout=compact&langs_count=10)](https://github-stats-extended.vercel.app/api/top-langs?username=rodlobcarlos&layout=compact&langs_count=10)
