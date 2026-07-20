@@ -21,8 +21,8 @@ Estas son las herramientas que he estado usando hasta día de hoy ⬇️ \
 <img width="120" height="70" alt="image" src="https://github.com/user-attachments/assets/28defc54-c933-4bf0-89b0-17fbddfe6e79" />
 
 ## Proyectos ⬇️
-Estoy trabajando en un ***portafolio personal*** para presentar todo lo relacionado con mi carrera en este sector. Ahí podrás ver los proyectos personales que he ido haciendo a lo largo de mi carrera y además podrás conocer un poco más sobre mi y sobre mis skills. 
-[Pulsa aquí para ver mis proyectos personales](https://github.com/rodlobcarlos/Personal-Projects)
+Tengo creado un repositorio en el que guardo los preyectos que he ido creando a lo largo de mi carrera profesional, además he creado mi portfolio personal. Ahí recojo información sobre mí, mis skills y los proyectos, aquí te dejo el link para que le eches un ojo [Portfolio](https://crldev.up.railway.app/CRLdev).
+[Pulsa aquí para ver el repositorio](https://github.com/rodlobcarlos/Personal-Projects)
 
 ## Contact
 [Email](https://mail.google.com/mail/u/0/?hl=es#inbox?compose=CllgCJTKXCfsGrMpcrnrMHTQktBNgnDNNxlQgHJdDSmDvxcgVwDkTKshjmmLMmZkBVJNXtpCGDB) 📩 
