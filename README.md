@@ -5,7 +5,7 @@ Mi nombre es ***Carlos Rodríguez Lobato***. Vivo en **Sevilla/España**. Actual
 Estas son las herramientas que he estado usando hasta día de hoy ⬇️ 
 
 <img width="120" height="70" alt="image" src="https://github.com/user-attachments/assets/a0767db9-1eeb-42c5-b3fe-0c4e1b06b167" />
-<img width="160" height="110" alt="image" src="https://github.com/user-attachments/assets/e882ccc4-bb1f-41b1-8832-59e3cc274af4" />
+<img width="120" height="70" alt="image" src="https://github.com/user-attachments/assets/e882ccc4-bb1f-41b1-8832-59e3cc274af4" />
 <img width="160" height="110" alt="image" src="https://github.com/user-attachments/assets/1877b534-b07f-4f68-a86b-167b2bd2b223" />
 <img width="160" height="110" alt="image" src="https://github.com/user-attachments/assets/99f6b664-784e-4fff-85fe-1508c0a33cda" />
 <img width="160" height="110" alt="image" src="https://github.com/user-attachments/assets/02861763-12e6-4906-ba5b-bfa310c0e47e" />
