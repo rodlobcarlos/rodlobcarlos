@@ -68,4 +68,4 @@ Soy desarrollador junior Full-Stack con sede en Sevilla, España. Actualmente me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-rodr%C3%ADguez-lobato-211b27330/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://personal-projects-seven-gules.vercel.app/CRLdev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:carlosrodriguezlobato@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTLHBBVhBfjgktbtcwgzZcChHbGXxGMjMvzndvqSCFPXVlcGnwXTsTvMhSpHwmSjLbNGzg)
