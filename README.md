@@ -56,9 +56,10 @@ Soy desarrollador junior Full-Stack con sede en Sevilla, España. Actualmente me
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodlobcarlos&show_icons=true&theme=default&include_all_commits=true&hide=stars)
+<img src="https://github.com/jstrieb/github-stats/blob/generated/languages.svg#gh-dark-mode-only" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodlobcarlos&layout=compact&theme=default&langs_count=10)
+<img src="https://github.com/jstrieb/github-stats/blob/generated/overview.svg#gh-dark-mode-only" />
+
 
 </div>
 
