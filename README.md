@@ -56,9 +56,8 @@ Soy desarrollador junior Full-Stack con sede en Sevilla, España. Actualmente me
 
 <div align="center">
 
-<img src="https://github.com/rodlobcarlos/github-stats/blob/generated/languages.svg#gh-dark-mode-only" />
-
-<img src="https://github.com/rodlobcarlos/github-stats/blob/generated/overview.svg#gh-dark-mode-only" />
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=rodlobcarlos&show_icons=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=rodlobcarlos&layout=compact&langs_count=10)
 
 
 </div>
