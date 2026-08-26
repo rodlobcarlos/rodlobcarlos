@@ -56,9 +56,9 @@ Soy desarrollador junior Full-Stack con sede en Sevilla, España. Actualmente me
 
 <div align="center">
 
-<img src="https://github.com/jstrieb/github-stats/blob/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://github.com/rodlobcarlos/github-stats/blob/generated/languages.svg#gh-dark-mode-only" />
 
-<img src="https://github.com/jstrieb/github-stats/blob/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/rodlobcarlos/github-stats/blob/generated/overview.svg#gh-dark-mode-only" />
 
 
 </div>
