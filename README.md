@@ -2,7 +2,7 @@
 
 ### Desarrollador Full-Stack | Enfocando en DevOps
 
-Soy desarrollador junior Full-Stack con sede en Sevilla, España. Actualmente me especializo en DevOps, un campo que automatiza y optimiza los procesos entre desarrollo, operaciones y seguridad. Apasionado por la tecnología y la innovación, siempre buscando aprender y crecer.
+Soy desarrollador junior Full-Stack con sede en Sevilla, España. Actualmente me especializo en DevOps (Microsoft Azure). Soy un apasionado por la tecnología y la innovación, siempre buscando aprender y crecer.
 
 ---
 
