@@ -39,6 +39,8 @@ Soy desarrollador junior Full-Stack con sede en Sevilla, España. Actualmente me
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=githubcopilot&logoColor=white)
 ![CodeQL](https://img.shields.io/badge/CodeQL-F22900?style=flat&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-green?style=flat&logo=git&logoColor=white)
+
 
 </div>
 
