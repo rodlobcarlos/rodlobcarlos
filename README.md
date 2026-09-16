@@ -51,7 +51,9 @@ Soy desarrollador junior Full-Stack con sede en Sevilla, España. Actualmente me
 | Proyecto | Descripción | Link |
 |----------|-------------|------|
 | **Portfolio Personal** | Web con información sobre mí, mis skills y proyectos destacados | [CRLdev](https://personal-projects-seven-gules.vercel.app/CRLdev) |
-
+| **Script en bash** | Script automatizado para obtener información de tu sistema | [Bash](https://github.com/rodlobcarlos/Personal-Projects/tree/main/Mini_proyecto_bash) | 
+| **Script en python** | Script automatizado para obtener la información del script en bash, además de controlar la salida de errores, etc | [Python](https://github.com/rodlobcarlos/Personal-Projects/tree/main/Mini_proyeto_python) |
+| **Docker** | Portfolio empaquetado en docker (frontend/backend) conectados a la base de datos local y preperado mediante un docker compose  | [Docker (Portfolio)](https://github.com/rodlobcarlos/Personal-Projects/tree/main/Portfolio) |
 ---
 
 ## GitHub Stats
