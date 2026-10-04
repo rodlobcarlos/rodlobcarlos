@@ -40,6 +40,7 @@ Soy desarrollador junior Full-Stack con sede en Sevilla, España. Actualmente me
 ![CodeQL](https://img.shields.io/badge/CodeQL-F22900?style=flat&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-green?style=flat&logo=git&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-purple?style=flat&logo=git&logoColor=white)
 
 
 </div>
