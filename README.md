@@ -33,7 +33,7 @@ Soy desarrollador junior Full-Stack con sede en Sevilla, España. Actualmente me
 
 **DevOps & Herramientas**
 
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=flat&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=githubcopilot&logoColor=white)
@@ -41,6 +41,7 @@ Soy desarrollador junior Full-Stack con sede en Sevilla, España. Actualmente me
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-green?style=flat&logo=git&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-purple?style=flat&logo=git&logoColor=white)
+![Terraform](https://img.shields.io/badge/Kubernetes-blue?style=flat&logo=git&logoColor=white)
 
 
 </div>
