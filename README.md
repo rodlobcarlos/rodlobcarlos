@@ -50,12 +50,12 @@ Soy desarrollador junior Full-Stack con sede en Sevilla, España. Actualmente me
 
 ## Proyectos
 
-| Proyecto | Descripción | Link |
-|----------|-------------|------|
-| **Portfolio Personal** | Web con información sobre mí, mis skills y proyectos destacados | [CRLdev](https://personal-projects-seven-gules.vercel.app/CRLdev) |
-| **Script en bash** | Script automatizado para obtener información de tu sistema | [Bash](https://github.com/rodlobcarlos/Personal-Projects/tree/main/Mini_proyecto_bash) | 
-| **Script en python** | Script automatizado para obtener la información del script en bash, además de controlar la salida de errores, etc | [Python](https://github.com/rodlobcarlos/Personal-Projects/tree/main/Mini_proyeto_python) |
-| **Docker** | Portfolio empaquetado en docker (frontend/backend) conectados a la base de datos local y preperado mediante un docker compose  | [Docker (Portfolio)](https://github.com/rodlobcarlos/Personal-Projects/tree/main/Portfolio) |
+| Proyecto | Descripción | Tecnología  | Link |
+|----------|-------------|------------|------|
+| **Portfolio Personal** | Web con información sobre mí, mis skills y proyectos destacados | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | [CRLdev](https://personal-projects-seven-gules.vercel.app/CRLdev) |
+| **Script en bash** | Script automatizado para obtener información de tu sistema | ![Bash](https://img.shields.io/badge/Bash-green?style=flat&logo=git&logoColor=white) | [Bash](https://github.com/rodlobcarlos/Personal-Projects/tree/main/Mini_proyecto_bash) | 
+| **Script en python** | Script automatizado para obtener la información del script en bash, además de controlar la salida de errores, etc | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | [Python](https://github.com/rodlobcarlos/Personal-Projects/tree/main/Mini_proyeto_python) |
+| **Docker** | Portfolio empaquetado en docker (frontend/backend) conectados a la base de datos local y preperado mediante un docker compose  | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | [Docker (Portfolio)](https://github.com/rodlobcarlos/Personal-Projects/tree/main/Portfolio) |
 ---
 
 ## GitHub Stats
