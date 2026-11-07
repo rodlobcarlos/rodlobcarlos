@@ -1,6 +1,6 @@
 # Carlos Rodríguez Lobato
 
-### Desarrollador Full-Stack | Enfocando en DevOps
+### Desarrollador Full-Stack | DevOps
 
 Soy desarrollador junior Full-Stack con sede en Sevilla, España. Actualmente me especializo en DevOps (Microsoft Azure). Soy un apasionado por la tecnología y la innovación, siempre buscando aprender y crecer.
 
